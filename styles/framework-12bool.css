@@ -14,7 +14,7 @@
 /*Columns Common Style*/
 [class^="col-"] {
   float: left;
-  padding: 16px;
+  padding: 5px;
   /* DEBUG:  */
   background: white;
   border: 5px solid black;

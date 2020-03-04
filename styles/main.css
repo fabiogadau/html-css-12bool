@@ -10,5 +10,33 @@ body {
 
 h2 {
   text-align: center;
-  margin: 30px;
+  margin: 20px;
+}
+
+.father {
+  height: 292px;
+ }
+
+.father .col-12 {
+  height: 100%;
+}
+
+[class^="col-"].red:hover {
+  border-color: red;
+  background-color: yellow;
+}
+
+[class^="col-"].green:hover {
+  border-color: green;
+  background-color: blue;
+}
+
+[class^="col-"].blue:hover {
+  border-color: blue;
+  background-color: green;
+}
+
+[class^="col-"].yellow:hover {
+  border-color: yellow;
+  background-color: red;
 }
