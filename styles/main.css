@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  font-family: Sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin: 30px;
+}
